@@ -1,11 +1,12 @@
-import './components/contacto-card';
 
-//import './firebase-ui-config';
+import './components/interface/my-nav';
+import './components/interface/my-avatar';
+import '@material/mwc-icon';
 
-import { PI, log2 } from './modulo';
-console.log(PI, log2);
+import './components/utils/email-link';
 
-import kk from './modulo';
-
-
-kk();
+import './components/interface/my-gravatar';
+import './components/contactos/contacto-card';
+import './components/contactos/contacto-list';
+import '@material/mwc-button';
+import '@material/mwc-checkbox';

@@ -2,7 +2,7 @@
   "_args": [
     [
       "@webcomponents/webcomponentsjs@2.2.1",
-      "/Users/midesweb/sites/curso/clase4-polymer-en-websites"
+      "/Users/midesweb/sites/ejemplos_cursos/estado_inicial_clase_code_splitting"
     ]
   ],
   "_from": "@webcomponents/webcomponentsjs@2.2.1",
@@ -27,7 +27,7 @@
   ],
   "_resolved": "https://registry.npmjs.org/@webcomponents/webcomponentsjs/-/webcomponentsjs-2.2.1.tgz",
   "_spec": "2.2.1",
-  "_where": "/Users/midesweb/sites/curso/clase4-polymer-en-websites",
+  "_where": "/Users/midesweb/sites/ejemplos_cursos/estado_inicial_clase_code_splitting",
   "author": {
     "name": "The Polymer Authors"
   },

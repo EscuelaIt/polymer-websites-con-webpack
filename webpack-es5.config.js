@@ -24,8 +24,7 @@ module.exports = {
                   '>=1%',
                   'not op_mini all',
                 ]
-              },
-              debug: true
+              }
             }  
             ]]
           }

@@ -21,9 +21,11 @@
     "webpack-dev-server": "^3.1.10"
   },
   "dependencies": {
+    "@material/mwc-button": "^0.3.4",
+    "@material/mwc-checkbox": "^0.3.4",
+    "@material/mwc-icon": "^0.3.4",
     "@polymer/polymer": "^3.1.0",
     "@webcomponents/webcomponentsjs": "^2.2.1",
-    "firebaseui": "^3.5.0",
-    "moment": "^2.23.0"
+    "axios": "^0.18.0"
   }
 }

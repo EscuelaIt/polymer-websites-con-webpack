@@ -10,7 +10,7 @@
 <body>
   <header>
     <div class="superheader">
-      <h1>Polymer para sitios web</h1>
+      <h1>Contactos</h1>
       <my-avatar src="https://desarrolloweb.com/archivoimg/general/1629.jpg"></my-avatar>
     </div>
     <my-nav>
@@ -22,17 +22,12 @@
     </my-nav>
   </header>
   
-  <p>
-    <?php
-    echo phpversion();
-    ?>
-  </p>
-
-  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia, minima dolorum eveniet ad culpa maxime pariatur laborum reiciendis nesciunt est quia tempore illum repellat beatae aliquam ipsa id voluptates. Enim!</p>
-  <p>Unde maxime libero voluptates corrupti ut voluptatum est quod ullam modi blanditiis! Vel suscipit asperiores quas dolorum modi adipisci, voluptatum accusantium illo nulla nihil ipsam quam totam a sint iure?</p>
-  <p>Qui accusantium perferendis temporibus laborum, obcaecati explicabo consequuntur tempore beatae enim cupiditate officiis dignissimos maiores.</p>
-
-  <email-link the-email="miguel@desarrolloweb.com"></email-link>
+  <contacto-list></contacto-list>
+  <!-- <contacto-card 
+    nombre="pepelotes" 
+    email="pepe@pepe.es"
+    fecha="1545161625105"
+  ></contacto-card> -->
   
   <script src="/js/webcomponentsjs/webcomponents-loader.js"></script>
   

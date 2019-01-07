@@ -19,8 +19,7 @@ module.exports = {
             {
               targets: {
                 "esmodules": true
-              },
-              debug: true
+              }
             }  
             ]]
           }
